@@ -1,38 +1,46 @@
-
+//base by DGXeon
+//re-upload? recode? copy code? give credit ya :)
+//YouTube: @DGXeon
+//Instagram: unicorn_xeon13
+//Telegram: t.me/xeonbotinc
+//GitHub: @DGXeon
+//WhatsApp: +916909137213
+//want more free bot scripts? 
+//subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: නැ 👉👈" //ur yt chanel name
-global.socialm = "GitHub: නැ 👉👈" //ur github or insta name
-global.location = "දකුණෙ මාතර ✌️💖" //ur location
+global.ytname = "YT: Xeon" //ur yt chanel name
+global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = '🐼-𝐌𝐃' //ur bot name
-global.ownernumber = ['94782543893'] //ur owner number, dont add more than one
-global.ownername = '🐼-𝐌𝐃' //ur owner name
-global.websitex = "https://wa.me/qr/P6WADRJOKAFUK1"
-global.wagc = "https://wa.me/qr/P6WADRJOKAFUK1"
+global.botname = 'BLACK AMDA' //ur bot name
+global.ownernumber = ['94789465072'] //ur owner number, dont add more than one
+global.ownername = '🦄Cyber Yakusa' //ur owner name
+global.websitex = "https://youtu.be/"
+global.wagc = "https://whatsapp.com/channel/0029VajfDh0LdQegRBEoHl20"
 global.themeemoji = '🪀'
-global.wm = "Hashan Bot Inc."
-global.botscript = 'https://wa.me/qr/P6WADRJOKAFUK1' //script link
+global.wm = "Xeon Bot Inc."
+global.botscript = 'https://github.com/' //script link
 global.packname = "Sticker By"
-global.author = "🐼-𝐌𝐃\n\n+94782543893"
-global.creator = "94782543893@s.whatsapp.net"
-global.xprefix = '.',''
-global.premium = ["94782543893"] // Premium User
+global.author = "🦄Amda\n\n+94"
+global.creator = "94789465072@s.whatsapp.net"
+global.xprefix = '.'
+global.premium = ["94789465072"] // Premium User
 
 //channel id
 global.xchannel = {
-	jid: '120363319098372999@newsletter'
+	jid: '120363222395675670@newsletter'
 	}
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '91' //set autoblock country code
-global.antiforeignnumber = '94' //set anti foreign number country code
+global.autoblocknumber = '92' //set autoblock country code
+global.antiforeignnumber = '91' //set anti foreign number country code
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
